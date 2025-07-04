@@ -15,7 +15,6 @@ It offers a simple and intuitive user interface and can be packaged into a Windo
 ## Runtime Environment
 - Python 3.6+
 - Standard libraries: tkinter, socket, sys, time
-
 Tested on Windows systems and runs normally after being packaged with "pyinstaller"
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Installation and Usage
