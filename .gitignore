@@ -1,0 +1,15 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Executables
+*.exe
+
+# Editor settings
+.vscode/
+.idea/
