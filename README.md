@@ -18,8 +18,24 @@ It offers a simple and intuitive user interface and can be packaged into a Windo
 
 #### Tested on Windows systems and runs normally after being packaged with "pyinstaller"
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Installation and Usage
+## Download Executable File
+You can download the latest version of the `.exe` program from the [Releases](https://github.com/Raclsc/WakeOnMagicPacket/releases) page. 
+No installation is required, just double-click to open.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Usage
+### Run the Executable File ([Download](https://github.com/Raclsc/WakeOnMagicPacket/releases))
+1. Enter the device's MAC address (supports `-` separation, auto-formatting).
+2. Set the broadcast IP (default is 255.255.255.255).
+3. Click the "Send" button to send the Magic Packet.
+4. Success will be displayed on the screen as "Send to 255.255.255.255".
+
 ### Run the Program (when not packaged)
 ```Command Line
 python WakeOnMagicPacket.py
 ```
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Author
+**Raclsc Chen** 
+GitHub: [@Raclsc](https://github.com/Raclsc)
